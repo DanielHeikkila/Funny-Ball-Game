@@ -1,0 +1,22 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+
+# Logs and databases #
+######################
+*.log
+
+# Visual Studio 2015 cache directory
+/.vs/
+
+#Unity specific
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
+/UserSettings/
